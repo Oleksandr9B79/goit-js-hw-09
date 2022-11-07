@@ -1,6 +1,6 @@
 .timer {
   display: flex;
-  gap: 35px;
+  gap: 30px;
 }
 
 .field {
@@ -12,8 +12,8 @@
 }
 
 .value {
-  font-size: 80px;
-  font-weight: 600;
+  font-size: 70px;
+  font-weight: 400;
 }
 
 .label {
